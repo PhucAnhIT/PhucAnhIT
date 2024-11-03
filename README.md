@@ -13,7 +13,6 @@ Mình là một người đam mê công nghệ và rất thích lập trình. T�
 - 🌐 **Website**: [phucanhdev.site](https://phucanhdev.site)
 - 📘 **Facebook**: [PhucAnhIT](https://www.facebook.com/PhucAnhIT)
 - 📱 **Telegram**: [@phucanhit](https://t.me/phucanhit)
-- 📱 **Zalo**: [0585657009](https://zalo.me/0585657009)
 
 ## 🛠️ Kỹ năng & Công nghệ
 - **Ngôn ngữ lập trình**: Python, PHP
